@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/goldenxinxing/test-coverage/badge.svg)](https://coveralls.io/github/goldenxinxing/test-coverage)

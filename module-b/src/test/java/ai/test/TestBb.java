@@ -4,7 +4,7 @@ import ai.gxx.TestB;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class UnitTestB {
+public class TestBb {
     @Test
     public void t() {
         System.out.println("start test for B");
